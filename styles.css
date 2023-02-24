@@ -502,9 +502,7 @@
   }
 
   .footer__col {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+    align-self: center;
   }
 
   .footer .footer__btn {
